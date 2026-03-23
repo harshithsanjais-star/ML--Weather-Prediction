@@ -136,6 +136,6 @@ for target in targets:
 ```
 
 ## Output:
-
+"C:\Users\acer\Pictures\Screenshots\Screenshot 2026-03-23 153537.png"
 
 ## Result:
